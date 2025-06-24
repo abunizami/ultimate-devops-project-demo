@@ -18,7 +18,7 @@ This is a customized implementation of the [Ultimate DevOps Project](https://git
 
 ## 📸 Architecture Diagram
 
-
+![DevOps Architecture](Architecture.png) 
 ---
 
 ## 🔄 End-to-End Workflow
