@@ -85,8 +85,8 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 Once deployed, access the app using the ALB/Ingress DNS:
 
 ```bash
-http://<ALB-DNS>/orders
-http://<ALB-DNS>/users
+http://<ALB-DNS>
+
 ```
 
 ---
